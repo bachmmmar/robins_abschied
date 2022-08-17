@@ -1,0 +1,13 @@
+[Unit]
+Description=Python Abschied Audio Deamon
+After=multi-user.target sound.target
+
+[Service]
+Type=idle
+WorkingDirectory=/home/pi/robins_abschied
+ExecStart=/usr/bin/python3 /home/pi/robins_abschied/main.py
+ExecStartPre=/bin/sleep 5
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
