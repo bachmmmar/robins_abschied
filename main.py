@@ -52,16 +52,39 @@ DATA = [
     SoundEntry(18, "sound/martin_gehen_wir_kaffee.mp3"),  # E
     SoundEntry(19, "sound/timon_rooobin.mp3"),  # R
     SoundEntry(20, "sound/timon_schnaebig.mp3"),  # T
+    SoundEntry(21, "sound/wyssmann_sitzung.mp3"),  # Z
+    SoundEntry(22, "sound/wyssmann_mandelbaerli.mp3"),  # U
+    SoundEntry(23, "sound/wyssmann_diode.mp3"),  # I
+    SoundEntry(24, "sound/morf_zuegeln.mp3"),  # O
+    SoundEntry(25, "sound/morf_stecker_lvdu.mp3"),  # P
+    SoundEntry(26, "sound/morf_neuer_print.mp3"),  # U
+    SoundEntry(30, "sound/wyssmann_support.mp3"),  # a
+    SoundEntry(31, "sound/francesco_bestueckungsliste.mp3"),  # s
+    SoundEntry(32, "sound/harry_ach_kinder.mp3"),  # d
+    SoundEntry(33, "sound/lukas_endlich_mit_profis.mp3"),  # f
+    SoundEntry(34, "sound/oli_sparen.mp3"),  # g
     SoundEntry(35, "sound/lukas.mp3"),  # h
     SoundEntry(36, "sound/Harry_autobatterie.mp3"),  # j
     SoundEntry(37, "sound/Lukas_keyuser.mp3"),  # k
     SoundEntry(38, "sound/Lukas_mimimi.mp3"),  # l
-    SoundEntry(39, "sound/Lukas_motor.mp3"),  # m
-    SoundEntry(40, "sound/Lukas_poweruser.mp3"),  # n
-    SoundEntry(41, "sound/thomas_geld_schwimmen.mp3"),  # o
-    SoundEntry(42, "sound/thomas_gruezzi_behring.mp3"),  # p
+    SoundEntry(39, "sound/Lukas_motor.mp3"),  # oe
+    SoundEntry(40, "sound/Lukas_poweruser.mp3"),  # ae
+    SoundEntry(41, "sound/thomas_geld_schwimmen.mp3"),  # $
+    SoundEntry(42, "sound/thomas_gruezzi_behring.mp3"),  # shift
     SoundEntry(57, "sound/jonas_s_laser.mp3"),  # Space
-
+    SoundEntry(44, "sound/morf_cost_down.mp3"),  # Y
+    SoundEntry(45, "sound/morf_bobcat.mp3"),  # x
+    SoundEntry(46, "sound/morf_anforderungen_print.mp3"),  # c
+    SoundEntry(47, "sound/meuti_100v.mp3"),  # v
+    SoundEntry(48, "sound/josia_von_anfang_an_gedacht.mp3"),  # b
+    SoundEntry(49, "sound/josia_stolz.mp3"),  # n
+    SoundEntry(50, "sound/josia_kunde_ist_interessiert.mp3"),  # m
+    SoundEntry(51, "sound/josia_kann_man_so_machen.mp3"),  # ,
+    SoundEntry(52, "sound/josia_alu_ist_dreck.mp3"),  # .
+    SoundEntry(53, "sound/bayram_tschaeddere.mp3"),  # -
+    SoundEntry(71, "sound/Josia_volvo_knie.mp3"),  # num7
+    SoundEntry(72, "sound/Josia_strom_sieg.mp3"),  # num8
+    SoundEntry(73, "sound/morf_low_hanging_fruit.mp3"),  # num9
 ]
 
 WELCOME = "sound/sexy_stimme_hallo_robin.mp3"
