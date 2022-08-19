@@ -38,6 +38,20 @@ DATA = [
     SoundEntry(119, "sound/Kristina_Never Gonna Give You Up.mp3"),  # Paus
     SoundEntry(41, "sound/thomas_halloee.mp3"),  # paragraf
     SoundEntry(2, "sound/tobi.mp3"),  # 1
+    SoundEntry(3, "sound/Lukas_cad.mp3"),  # 2
+    SoundEntry(4, "sound/Lukas_strom_sieg.mp3"),  # 3
+    SoundEntry(5, "sound/bayram_koppelweg.mp3"),  # 4
+    SoundEntry(6, "sound/bayram_signalintegritaet.mp3"),  # 5
+    SoundEntry(7, "sound/bayram_signalintegritaet.mp3"),  # 6
+    SoundEntry(8, "sound/jonas_s_kaffi.mp3"),  # 7
+    SoundEntry(9, "sound/jonas_s_viel_erfolg.mp3"),  # 8
+    SoundEntry(10, "sound/kristina__limbo_fritig.mp3"),  # 9
+    SoundEntry(15, "sound/kristina_blblb.mp3"),  # TAB
+    SoundEntry(16, "sound/lukas_alu_staub.mp3"),  # Q
+    SoundEntry(17, "sound/lukas_traust_dich_eh_nicht.mp3"),  # W
+    SoundEntry(18, "sound/martin_gehen_wir_kaffee.mp3"),  # E
+    SoundEntry(19, "sound/timon_rooobin.mp3"),  # R
+    SoundEntry(20, "sound/timon_schnaebig.mp3"),  # T
     SoundEntry(35, "sound/lukas.mp3"),  # h
     SoundEntry(36, "sound/Harry_autobatterie.mp3"),  # j
     SoundEntry(37, "sound/Lukas_keyuser.mp3"),  # k
@@ -47,6 +61,7 @@ DATA = [
     SoundEntry(41, "sound/thomas_geld_schwimmen.mp3"),  # o
     SoundEntry(42, "sound/thomas_gruezzi_behring.mp3"),  # p
     SoundEntry(57, "sound/jonas_s_laser.mp3"),  # Space
+
 ]
 
 WELCOME = "sound/sexy_stimme_hallo_robin.mp3"
