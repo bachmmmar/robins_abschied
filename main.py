@@ -89,6 +89,8 @@ DATA = [
     SoundEntry(77, "sound/thomas_leben_am_limit.mp3"),  # num6
     SoundEntry(79, "sound/thomas_staege_am_mentig.mp3"),  # num1
     SoundEntry(80, "sound/thomas_unterschied_mdc22_mdc44.mp3"),  # num2
+    SoundEntry(74, "sound/Tibor_Jira.mpeg"),  # num4
+    SoundEntry(82, "sound/Tibor_Bullshit.mpeg"),  # num0
 ]
 
 WELCOME = "sound/sexy_stimme_hallo_robin.mp3"
