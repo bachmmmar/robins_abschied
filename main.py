@@ -42,7 +42,7 @@ DATA = [
     SoundEntry(4, "sound/Lukas_strom_sieg.mp3"),  # 3
     SoundEntry(5, "sound/bayram_koppelweg.mp3"),  # 4
     SoundEntry(6, "sound/bayram_signalintegritaet.mp3"),  # 5
-    SoundEntry(7, "sound/bayram_signalintegritaet.mp3"),  # 6
+    SoundEntry(7, "sound/thomas_plus_an_minus.mp3"),  # 6
     SoundEntry(8, "sound/jonas_s_kaffi.mp3"),  # 7
     SoundEntry(9, "sound/jonas_s_viel_erfolg.mp3"),  # 8
     SoundEntry(10, "sound/kristina__limbo_fritig.mp3"),  # 9
@@ -69,9 +69,9 @@ DATA = [
     SoundEntry(38, "sound/Lukas_mimimi.mp3"),  # l
     SoundEntry(39, "sound/Lukas_motor.mp3"),  # oe
     SoundEntry(40, "sound/Lukas_poweruser.mp3"),  # ae
-    SoundEntry(41, "sound/thomas_geld_schwimmen.mp3"),  # $
+    SoundEntry(81, "sound/thomas_geld_schwimmen.mp3"),  # num3
     SoundEntry(42, "sound/thomas_gruezzi_behring.mp3"),  # shift
-    SoundEntry(57, "sound/jonas_s_laser.mp3"),  # Space
+    SoundEntry(70, "sound/jonas_s_laser.mp3"),  # Space
     SoundEntry(44, "sound/morf_cost_down.mp3"),  # Y
     SoundEntry(45, "sound/morf_bobcat.mp3"),  # x
     SoundEntry(46, "sound/morf_anforderungen_print.mp3"),  # c
@@ -85,6 +85,10 @@ DATA = [
     SoundEntry(71, "sound/Josia_volvo_knie.mp3"),  # num7
     SoundEntry(72, "sound/Josia_strom_sieg.mp3"),  # num8
     SoundEntry(73, "sound/morf_low_hanging_fruit.mp3"),  # num9
+    SoundEntry(76, "sound/thomas_flugzeuge.mp3"),  # num5
+    SoundEntry(77, "sound/thomas_leben_am_limit.mp3"),  # num6
+    SoundEntry(79, "sound/thomas_staege_am_mentig.mp3"),  # num1
+    SoundEntry(80, "sound/thomas_unterschied_mdc22_mdc44.mp3"),  # num2
 ]
 
 WELCOME = "sound/sexy_stimme_hallo_robin.mp3"
